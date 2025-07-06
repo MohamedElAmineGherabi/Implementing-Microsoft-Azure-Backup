@@ -209,29 +209,60 @@ Task 5: Implementing Azure VM Backup  <br/>
 <br />
 Task 6: Exercise: Creating a New VM with Monthly Backup  <br/>
 <br />
-<img src="https://i.imgur.com/1ATP4VS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xZTaHiw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/WYqmJtZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HD3uy3S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/mMW1xd4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3hRAGcs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/Owdv1uY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jdPE6NZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/mQcyZHz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c4vg2fl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/G2CgPRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G6oxNWP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/IuffyDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wmWxSQo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/i2ULaA8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/2F4kOeb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/FfGGiFL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/4JcAbcY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/D6eTdnB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/akXlqzZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/5d4K8Ln.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/hP6JJR2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/FtrzrqN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/Ic9WOca.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/SrQTyb1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<br />
-<br />
 <br />
 <br />
 <br />
