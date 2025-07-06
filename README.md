@@ -67,7 +67,7 @@ These skills are essential for cloud administrators, IT professionals, and cyber
 
 
 <p align="center">
-Task 1: Creating a Resource Group <br/>
+Task 1: Creating a Recovery Services Vault <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/IuKZ9pg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -88,7 +88,7 @@ Task 1: Creating a Resource Group <br/>
 <img src="https://i.imgur.com/2ieH3Oi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Task 2: Setting Up a Virtual Network and Subnet <br/>
+Task 2: Configuring Backup Policies <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/7J4tkMc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -127,7 +127,7 @@ Task 2: Setting Up a Virtual Network and Subnet <br/>
 <br />
   
 <p align="center">
-Task 3: Securing the Subnet with a Network Security Group (NSG) <br/>
+Task 3: Exercise: Creating a Monthly Backup Policy <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/Wnm1bmq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -159,7 +159,7 @@ Task 3: Securing the Subnet with a Network Security Group (NSG) <br/>
 <br />
 <br />
 <br />
-Task 4: Deploying Azure Bastion for Secure VM Access  <br/>
+Task 4: Creating an Azure Virtual Machine  <br/>
 <br />
 <img src="https://i.imgur.com/kv4dHW1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -186,7 +186,7 @@ Task 4: Deploying Azure Bastion for Secure VM Access  <br/>
 
 <br />
 <br />
-Task 5: Creating an Ubuntu Virtual Machine  <br/>
+Task 5: Implementing Azure VM Backup  <br/>
 <br />
 <img src="https://i.imgur.com/i4J3eyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -214,7 +214,7 @@ Task 5: Creating an Ubuntu Virtual Machine  <br/>
 <br />
 <br />
 <br />
-Task 6: Installing Nextcloud via SSH  <br/>
+Task 6: Exercise: Creating a New VM with Monthly Backup  <br/>
 <br />
 <img src="https://i.imgur.com/1ATP4VS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
@@ -240,75 +240,6 @@ Task 6: Installing Nextcloud via SSH  <br/>
 <br />
 <br />
 <br />
-Task 7: Publishing the Web Server with a Public IP  <br/>
-<br />
-<br />
-<img src="https://i.imgur.com/p83mVQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/2S02Ajl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/DYOT32I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/qmCTICr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/8p9rxJp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/UbAPifN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/xAvpgeF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/sJ9ZXeK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/1bqjGY7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/eknd9S4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/wWn7WEH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/HhLgtAQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
-
-<p align="center">
-Task 8: Creating a DNS Label  <br/>
-<br />
-<br />
-<img src="https://i.imgur.com/27QDWxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/CXQ9GzX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/KYfnYwi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/TZqnu6I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/mL8Mm7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/BCAOtl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/7ip174O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/WBdI9Vm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
 <br />
 <br />
 <br />
