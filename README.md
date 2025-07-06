@@ -268,7 +268,7 @@ Task 6: Exercise: Creating a New VM with Monthly Backup  <br/>
 <br />
 <br />
 <br />
-<img src="https://i.imgur.com/LbRONpE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OzWZ6Oh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
